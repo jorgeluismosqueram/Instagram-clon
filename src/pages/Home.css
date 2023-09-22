@@ -1,0 +1,118 @@
+
+.todo{
+display: flex;
+margin-left: 20%;
+top: 0%;
+}
+.general .ladoDerecho2{
+    padding-top: 22px;
+    display: grid;
+    
+  
+    
+}
+.general{
+    margin-left: 0%;
+    z-index: 1;
+    position: absolute;
+    top: 0%
+}
+.barraNavegacion{
+
+width: auto;
+position: sticky;
+left: 0%;
+top: 0%;
+height: auto;
+}
+.navItem{
+
+margin-top: 10%;
+}
+
+.Historias{
+    display: flex;
+    overflow: hidden;
+    margin-bottom: 0%;
+    width: 900px;
+    
+}
+
+
+.itemHistorias{
+padding-left: 0%;
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+width: 100%;
+}
+.itemHistorias .story {
+   width: 100%;
+  margin-left: 2%;
+  
+}
+
+.story p{
+    margin-right: 0%;
+}
+
+.imagenHistoria img{
+   
+}
+
+.story .imagenHistoria img{
+    margin-right: 10%;
+    
+  border-style: groove;
+
+  border-width: 3px;
+
+  
+
+   
+    
+}
+svg:active{
+    color: red;
+    
+}
+.contenedorPost{
+    display: flex;
+   justify-content: center;
+    
+
+}
+.Carruselabajo{
+   
+    
+}
+.vertical{
+    
+}
+
+.footer{
+    text-align: start;
+    text-align: right;
+   
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    
+}
+.Infousuario-sugerencias{
+width: 350px;
+padding-left: 20px;
+}
+.sugested{
+    display: flex;
+}
+#p1{
+    width: 290px;
+}
+#p2{
+    font-weight: 500;
+}
+.primero{
+    flex-wrap: wrap;
+}

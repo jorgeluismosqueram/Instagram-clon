@@ -1,0 +1,36 @@
+li{
+    font-style: none;
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    
+    color: #737373;
+   
+}
+ul{
+  
+    display: flex;
+    margin: 0%;
+    padding: 5px;
+    justify-content: center;
+    color: #737373;
+    
+}
+li a{
+    color: #737373;
+    
+    font-size: 12px;
+    font-weight: 100;
+    justify-content: center;
+}
+
+.footer{
+    color: #737373;
+    display: grid;
+    font-size: 12px;
+    justify-content: center;
+    padding-left: 1%;
+    padding-top: 1.5%;
+}
+
